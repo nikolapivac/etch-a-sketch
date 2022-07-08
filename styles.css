@@ -1,0 +1,13 @@
+#container{
+    display: grid;
+}
+
+.btn{
+    font-size: 12px;
+    background-color: grey;
+    font-weight: bold;
+    padding: 8px 4px;
+    margin-bottom: 12px; 
+    border-radius: 4px;
+}
+
